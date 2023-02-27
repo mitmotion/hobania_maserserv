@@ -2,7 +2,7 @@ version: "3.5"
 
 services:
   game-server:
-    image: https://github.com/mitmotion/Hobania_maserServ.git
+    image: https://github.com/mitmotion/hobania_maserserv.git
     stdin_open: true
     tty: true
     container_name: hobania-server-master
